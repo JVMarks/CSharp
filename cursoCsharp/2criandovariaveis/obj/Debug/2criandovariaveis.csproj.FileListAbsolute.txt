@@ -1,0 +1,7 @@
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\2criandovariaveis\bin\Debug\2criandovariaveis.exe.config
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\2criandovariaveis\bin\Debug\2criandovariaveis.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\2criandovariaveis\bin\Debug\2criandovariaveis.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\2criandovariaveis\obj\Debug\2criandovariaveis.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\2criandovariaveis\obj\Debug\2criandovariaveis.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\2criandovariaveis\obj\Debug\2criandovariaveis.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\2criandovariaveis\obj\Debug\2criandovariaveis.csprojAssemblyReference.cache

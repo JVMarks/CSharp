@@ -1,0 +1,7 @@
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\cursocsharp\bin\Debug\cursocsharp.exe.config
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\cursocsharp\bin\Debug\cursocsharp.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\cursocsharp\bin\Debug\cursocsharp.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\cursocsharp\obj\Debug\cursocsharp.csprojAssemblyReference.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\cursocsharp\obj\Debug\cursocsharp.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\cursocsharp\obj\Debug\cursocsharp.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\cursocsharp\obj\Debug\cursocsharp.pdb

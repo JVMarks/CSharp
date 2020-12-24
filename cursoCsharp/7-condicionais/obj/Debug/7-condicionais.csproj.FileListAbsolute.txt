@@ -1,0 +1,6 @@
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\7-condicionais\bin\Debug\7-condicionais.exe.config
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\7-condicionais\bin\Debug\7-condicionais.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\7-condicionais\bin\Debug\7-condicionais.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\7-condicionais\obj\Debug\7-condicionais.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\7-condicionais\obj\Debug\7-condicionais.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\7-condicionais\obj\Debug\7-condicionais.pdb
