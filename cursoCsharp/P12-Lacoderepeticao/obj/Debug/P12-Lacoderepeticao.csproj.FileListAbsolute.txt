@@ -1,0 +1,7 @@
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-Lacoderepeticao\bin\Debug\P12-Lacoderepeticao.exe.config
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-Lacoderepeticao\bin\Debug\P12-Lacoderepeticao.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-Lacoderepeticao\bin\Debug\P12-Lacoderepeticao.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-Lacoderepeticao\obj\Debug\P12-Lacoderepeticao.csprojAssemblyReference.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-Lacoderepeticao\obj\Debug\P12-Lacoderepeticao.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-Lacoderepeticao\obj\Debug\P12-Lacoderepeticao.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-Lacoderepeticao\obj\Debug\P12-Lacoderepeticao.pdb

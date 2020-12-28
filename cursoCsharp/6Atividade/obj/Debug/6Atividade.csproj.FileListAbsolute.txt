@@ -1,0 +1,7 @@
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\6Atividade\bin\Debug\6Atividade.exe.config
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\6Atividade\bin\Debug\6Atividade.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\6Atividade\bin\Debug\6Atividade.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\6Atividade\obj\Debug\6Atividade.csprojAssemblyReference.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\6Atividade\obj\Debug\6Atividade.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\6Atividade\obj\Debug\6Atividade.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\6Atividade\obj\Debug\6Atividade.pdb

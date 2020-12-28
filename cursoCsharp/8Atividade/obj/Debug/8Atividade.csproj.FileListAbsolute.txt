@@ -1,0 +1,7 @@
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\8Atividade\bin\Debug\8Atividade.exe.config
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\8Atividade\bin\Debug\8Atividade.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\8Atividade\bin\Debug\8Atividade.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\8Atividade\obj\Debug\8Atividade.csprojAssemblyReference.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\8Atividade\obj\Debug\8Atividade.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\8Atividade\obj\Debug\8Atividade.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\8Atividade\obj\Debug\8Atividade.pdb

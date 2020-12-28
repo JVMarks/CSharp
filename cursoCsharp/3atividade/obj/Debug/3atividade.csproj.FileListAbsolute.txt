@@ -1,0 +1,7 @@
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\3atividade\bin\Debug\3atividade.exe.config
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\3atividade\bin\Debug\3atividade.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\3atividade\bin\Debug\3atividade.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\3atividade\obj\Debug\3atividade.csprojAssemblyReference.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\3atividade\obj\Debug\3atividade.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\3atividade\obj\Debug\3atividade.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\3atividade\obj\Debug\3atividade.pdb

@@ -1,0 +1,6 @@
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\5Atividade\bin\Debug\5Atividade.exe.config
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\5Atividade\bin\Debug\5Atividade.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\5Atividade\bin\Debug\5Atividade.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\5Atividade\obj\Debug\5Atividade.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\5Atividade\obj\Debug\5Atividade.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\5Atividade\obj\Debug\5Atividade.pdb

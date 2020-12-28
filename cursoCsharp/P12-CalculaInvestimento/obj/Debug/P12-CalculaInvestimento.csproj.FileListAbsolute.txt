@@ -1,0 +1,6 @@
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-CalculaInvestimento\obj\Debug\P12-CalculaInvestimento.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-CalculaInvestimento\bin\Debug\P12-CalculaInvestimento.exe.config
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-CalculaInvestimento\bin\Debug\P12-CalculaInvestimento.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-CalculaInvestimento\bin\Debug\P12-CalculaInvestimento.pdb
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-CalculaInvestimento\obj\Debug\P12-CalculaInvestimento.exe
+D:\trabalho\Cursos\C#\Primeiros_passos\cursoCsharp\P12-CalculaInvestimento\obj\Debug\P12-CalculaInvestimento.pdb
