@@ -1,0 +1,7 @@
+D:\trabalho\Cursos\ByteBank\06-ByteBank\bin\Debug\06-ByteBank.exe.config
+D:\trabalho\Cursos\ByteBank\06-ByteBank\bin\Debug\06-ByteBank.exe
+D:\trabalho\Cursos\ByteBank\06-ByteBank\bin\Debug\06-ByteBank.pdb
+D:\trabalho\Cursos\ByteBank\06-ByteBank\obj\Debug\06-ByteBank.csprojAssemblyReference.cache
+D:\trabalho\Cursos\ByteBank\06-ByteBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
+D:\trabalho\Cursos\ByteBank\06-ByteBank\obj\Debug\06-ByteBank.exe
+D:\trabalho\Cursos\ByteBank\06-ByteBank\obj\Debug\06-ByteBank.pdb

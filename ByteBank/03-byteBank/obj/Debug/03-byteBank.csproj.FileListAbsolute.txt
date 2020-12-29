@@ -1,0 +1,7 @@
+C:\Users\jovic\source\repos\ByteBank\03-byteBank\bin\Debug\03-byteBank.exe.config
+C:\Users\jovic\source\repos\ByteBank\03-byteBank\bin\Debug\03-byteBank.exe
+C:\Users\jovic\source\repos\ByteBank\03-byteBank\bin\Debug\03-byteBank.pdb
+C:\Users\jovic\source\repos\ByteBank\03-byteBank\obj\Debug\03-byteBank.csprojAssemblyReference.cache
+C:\Users\jovic\source\repos\ByteBank\03-byteBank\obj\Debug\03-byteBank.csproj.CoreCompileInputs.cache
+C:\Users\jovic\source\repos\ByteBank\03-byteBank\obj\Debug\03-byteBank.exe
+C:\Users\jovic\source\repos\ByteBank\03-byteBank\obj\Debug\03-byteBank.pdb
