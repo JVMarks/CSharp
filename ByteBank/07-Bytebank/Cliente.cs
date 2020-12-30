@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _06_ByteBank
+namespace _07_Bytebank
 {
     public class Cliente
     {
@@ -16,7 +16,7 @@ namespace _06_ByteBank
             {
                 return _cpf;
             }
-            set 
+            set
             {
                 //escreva minha lógica de validação de cpf
                 _cpf = value;
@@ -25,3 +25,4 @@ namespace _06_ByteBank
         public string Profissao { get; set; }
     }
 }
+
