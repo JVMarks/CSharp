@@ -19,8 +19,7 @@ namespace INICIAL_MVC.Controllers
 
         //Qual a instrução utilizada para 
         //se fazer um "loop" dentro do .cshtml?
-        //@foreach
-
+        //@foreach (var NOMEVARIAVEL in Model){<HTML>}
 
         //Da mesma forma que podemos utilizar o HttpPostAttribute para aceitar apenas
         //requisições do tipo post, também temos o HttpGetAttribute para aceitar apenas requisições do tipo Get
@@ -28,6 +27,23 @@ namespace INICIAL_MVC.Controllers
         //ModelValidertor - [Required] 
         //ModelState.addModelerror faz a tratação de errors dentro de um IF  
         //Para funcionar no html voce precisa colocar @Html.ValidationMessage
+
+        //DAO inforações do banco de dados
+
+        //@html.ActionLink()
+
+        //@model (é dinamico/Foritmente tipada) serve para indicar o tipo de referencia da Model 
+
+        //Vimos que uma segunda forma de enviarmos valores para a camada de visualização é colocando-o como 
+        //argumento do método View do Controller. Como podemos acessar a variável que é passada para a view dessa forma?
+        //podemos utilizar a variável Model
+
+        //[Route("url/{id}")] Controller
+        //routes.MapMVCAttributeRoutes(); Router
+        // @html.RouteLink("", "") view 
+
+        //Podemos criar no projeto um novo arquivo especial do razor chamado _ViewStart.cshtml 
+        //dentro da pasta Views da aplicação.O arquivo _ViewStart.cshtml
         public ActionResult Index()
         {
 
